@@ -18,14 +18,15 @@ It is a **beginner-friendly data analytics project** created as part of a Data A
 
 ```
 Supermarket_Grocery_Sales_Analysis/
-│
-├── Supermarket_Sales_Analysis.ipynb   # Main Jupyter Notebook
+├── Supermarket_Sales_Analysis.ipynb
+├── README.md
 ├── Dataset/
-│   └── Supermart Grocery Sales - Retail Analytics Dataset (1).csv
+│   ├── Supermart Grocery Sales - Retail Analytics Dataset (1).csv
+│   └── supermarket_sales_cleaned.csv
 ├── Images/
-│   └── sales_by_category.png
+│   ├── sales_by_category.png
 │   └── correlation_heatmap.png
-└── README.md
+
 ```
 
 ---
@@ -67,8 +68,10 @@ Through this project, I learned how to:
 
 ## 🖼️ Sample Visuals
 
-![Sales by Category] "C:\Users\vanis\OneDrive\Documents\Supermarket_Grocery_Sales_Analysis\images\Screenshot (272).png"
-![Correlation Heatmap]"C:\Users\vanis\OneDrive\Documents\Supermarket_Grocery_Sales_Analysis\images\Screenshot (273).png"
+![Sales by Category] <img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/3111ca1e-3567-4794-95dd-5d459cdc9c3b" />
+
+![Correlation Heatmap] <img width="1920" height="1080" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/03d1016f-abac-4dee-bdaf-e8b9e8eeabf6" />
+
 
 ---
 
